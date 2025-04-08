@@ -1,2 +1,2 @@
-# Multi-View_Diffusion
+# Multi-View Diffusion
 Multi-view Diffusion demo
