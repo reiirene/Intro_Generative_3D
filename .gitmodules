@@ -1,0 +1,3 @@
+[submodule "multi-view-diffusion"]
+    path = multi-view-diffusion
+    url = https://huggingface.co/reiirene/multi-view-diffusion
